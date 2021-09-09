@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>simpletestimonies</name>
+	<displayName><![CDATA[Livre d\'or]]></displayName>
+	<version><![CDATA[0.0.1]]></version>
+	<description><![CDATA[Simple testimonies module]]></description>
+	<author><![CDATA[Jonas Donnet]]></author>
+	<tab><![CDATA[others]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
